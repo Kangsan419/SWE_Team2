@@ -5,11 +5,11 @@ SKKU Introduction to Software Engineering Team 2 Project "구해봐요 성대에
 성균관대 학생들을 위한 주거공간 커뮤니티
 
 ## 멤버 구성
-* Frontend(작성요망)
-    * 김강산
-    * 인진영
+* Frontend
+    * 김강산 : Team Leader, UI/UX, Homepage FE 구현
+    * 인진영 : Document 작성, 게시판 Frontend 구현  
     * 정안승 : 웹페이지 디자인, 로그인 및 회원가입 frontend 구현
-    * 한재웅
+    * 한재웅 : Document 작성
 
 * Backend
     * 강준모: 게시판 기능 backend 구현
